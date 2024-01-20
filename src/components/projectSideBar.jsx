@@ -1,6 +1,6 @@
 import Button from "./Button.jsx";
 
-export default function projectSideBar({
+export default function ProjectSideBar({
   onStartAddProject,
   projects,
   onSelectProject,
